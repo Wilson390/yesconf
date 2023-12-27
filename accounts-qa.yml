@@ -2,7 +2,7 @@ build:
  version: "1.0"
   
 accounts:
- message: "Welcome to YesBank Accounts related QA file sys APIs"
+ message: "Welcome to YesBank Accounts related QA  prop file APIs"
  contactDetails:
   name: "John Donald- QA Developer"
   email: "jd_qa@devloper.com"
