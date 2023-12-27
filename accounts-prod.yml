@@ -2,7 +2,7 @@ build:
  version: "1.0"
   
 accounts:
- message: "Welcome to YesBank Accounts related Prod prop file APIs"
+ message: "Welcome to YesBank Accounts related Git prop file  APIs"
  contactDetails:
   name: "John Donald- Prod file sys"
   email: "jd_prod@devloper.com"
