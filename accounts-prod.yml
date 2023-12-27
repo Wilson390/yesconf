@@ -1,0 +1,11 @@
+build:
+ version: "1.0"
+  
+accounts:
+ message: "Welcome to YesBank Accounts related Prod file sys APIs"
+ contactDetails:
+  name: "John Donald- Prod file sys"
+  email: "jd_prod@devloper.com"
+ onCallSupport:
+  - 42343433
+  - 55565654
