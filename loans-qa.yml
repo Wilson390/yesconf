@@ -2,7 +2,7 @@ build:
  version: "1.0"
   
 loans:
- message: "Welcome to YesBank Loans related QA Git prop file APIs"
+ message: "Welcome to YesBank Loans related Testt Git prop file APIs"
  contactDetails:
   name: "John Donald- QA Developer"
   email: "loans_qa@devloper.com"
